@@ -1,12 +1,12 @@
 <a href="https://echo.labstack.com"><img height="80" src="https://labstack.com/images/echo-logo.svg"></a>
 
-[![Sourcegraph](https://sourcegraph.com/github.com/labstack/echo/-/badge.svg?style=flat-square)](https://sourcegraph.com/github.com/labstack/echo?badge)
-[![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/labstack/echo)
-[![Go Report Card](https://goreportcard.com/badge/github.com/labstack/echo?style=flat-square)](https://goreportcard.com/report/github.com/labstack/echo)
-[![Build Status](http://img.shields.io/travis/labstack/echo.svg?style=flat-square)](https://travis-ci.org/labstack/echo)
-[![Codecov](https://img.shields.io/codecov/c/github/labstack/echo.svg?style=flat-square)](https://codecov.io/gh/labstack/echo) [![Forum](https://img.shields.io/badge/community-forum-00afd1.svg?style=flat-square)](https://forum.labstack.com)
+[![Sourcegraph](https://sourcegraph.com/github.com/xwl7001/echo/-/badge.svg?style=flat-square)](https://sourcegraph.com/github.com/xwl7001/echo?badge)
+[![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/xwl7001/echo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xwl7001/echo?style=flat-square)](https://goreportcard.com/report/github.com/xwl7001/echo)
+[![Build Status](http://img.shields.io/travis/xwl7001/echo.svg?style=flat-square)](https://travis-ci.org/xwl7001/echo)
+[![Codecov](https://img.shields.io/codecov/c/github/xwl7001/echo.svg?style=flat-square)](https://codecov.io/gh/xwl7001/echo) [![Forum](https://img.shields.io/badge/community-forum-00afd1.svg?style=flat-square)](https://forum.labstack.com)
 [![Twitter](https://img.shields.io/badge/twitter-@labstack-55acee.svg?style=flat-square)](https://twitter.com/labstack)
-[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/labstack/echo/master/LICENSE)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/xwl7001/echo/master/LICENSE)
 
 ## Feature Overview
 
@@ -55,8 +55,8 @@
 ## Credits
 - [Vishal Rana](https://github.com/vishr) - Author
 - [Nitin Rana](https://github.com/nr17) - Consultant
-- [Contributors](https://github.com/labstack/echo/graphs/contributors)
+- [Contributors](https://github.com/xwl7001/echo/graphs/contributors)
 
 ## License
 
-[MIT](https://github.com/labstack/echo/blob/master/LICENSE)
+[MIT](https://github.com/xwl7001/echo/blob/master/LICENSE)

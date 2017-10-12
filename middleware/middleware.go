@@ -1,6 +1,6 @@
 package middleware
 
-import "github.com/labstack/echo"
+import "github.com/xwl7001/echo"
 
 type (
 	// Skipper defines a function to skip middleware. Returning true skips processing
